@@ -31,7 +31,7 @@ Expected Output:
 
 */ 
  
-let phoneReg = /write your regex here/
+let phoneReg = /^(?s{3})?(-|s)(d{3})(-|s)(d{4})$/
 
 /* 
 
